@@ -2,6 +2,6 @@
 
 README file for learning
 
-test ssh
+test ssh2
 
 Test pull
